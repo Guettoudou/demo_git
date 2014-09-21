@@ -1,4 +1,4 @@
 demo_git
 ========
 
-Une dÃ©mo de Git
+Une démo de Git qui se passe bien
